@@ -1,0 +1,40 @@
+{
+    "information": [
+        {
+            "name": "Павел Жуков",
+            "age": 37,
+            "work": "програмиист",
+            "admin": "no",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "HTMML",
+                "CSS"
+            ],
+            "phone": "8-999-999-99-99",
+            "email": "pavel042@gmail.com"
+        },
+        {
+            "name": "Борис",
+            "age": 23,
+            "work": "програмиист",
+            "skills": [
+                "php,MySQL"
+            ],
+            "phone": 885433421,
+            "email": "boris@gmail.com"
+        },
+        {
+            "name": "Артём",
+            "age": 23,
+            "work": "Программный инженер",
+            "skills": [
+                "CSS",
+                "HTML",
+                "JavaScript"
+            ],
+            "phone": 89999999999,
+            "email": "artem@mail.ru"
+        }
+    ]
+}
